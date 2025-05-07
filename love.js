@@ -1,0 +1,3 @@
+function expressLove(){
+    console
+}
